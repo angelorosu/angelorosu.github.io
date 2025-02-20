@@ -5,7 +5,7 @@
 # Use the remote theme or your local fork
 # remote_theme: "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin: "contrast"  # try "dark", "air", "contrast", etc.
+minimal_mistakes_skin: "dark"  # try "dark", "air", "contrast", etc.
 
 title: "Angelo's Blog"
 name: "Angelo Rosu"
@@ -51,7 +51,7 @@ plugins:
 font:
   heading: "Poppins"
   body: "Lora"
-  
+
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
