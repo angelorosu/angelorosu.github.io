@@ -35,6 +35,10 @@ navigation:
   #   url: "/blog/"
   # Add or remove as needed
 
+  include:
+  - _pages
+
+
 # ------------------------------------------
 # PLUGINS
 # ------------------------------------------
@@ -51,6 +55,7 @@ plugins:
 font:
   heading: "Poppins"
   body: "Lora"
+
 
 markdown: kramdown
 highlighter: rouge
